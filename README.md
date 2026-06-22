@@ -10,6 +10,6 @@ Public support and privacy pages for the Workout Beat app.
 
 Once GitHub Pages is enabled with the `main` branch and `/docs` folder, the public URLs will be:
 
-- `https://wall19751117-art.github.io/workout-beat-privacy/`
-- `https://wall19751117-art.github.io/workout-beat-privacy/privacy.html`
-- `https://wall19751117-art.github.io/workout-beat-privacy/support.html`
+- `https://digit-play.github.io/workout-beat-privacy/`
+- `https://digit-play.github.io/workout-beat-privacy/privacy.html`
+- `https://digit-play.github.io/workout-beat-privacy/support.html`
